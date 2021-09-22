@@ -7,3 +7,5 @@ Application's CSS selectors and properties are consolidated and organized to fol
 Application's CSS file is properly commented.
 
 GitHub URL: https://leticianardi.github.io/Code-Refractor-Horieson/
+
+<img src="Screenshot1.png">
