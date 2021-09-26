@@ -8,6 +8,6 @@ Application's CSS file is properly commented.
 
 GitHub URL: https://leticianardi.github.io/Code-Refractor-Horieson/
 
-<img src="Screenshot1.png" />
-<img src="Screenshot2.png" />
-<img src="Screenshot3.png" />
+<img src="assets/images/Screenshot1.png" />
+<img src="assets/images/Screenshot2.png" />
+<img src="assets/images/Screenshot3.png" />
